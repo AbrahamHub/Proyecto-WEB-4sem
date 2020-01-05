@@ -1,4 +1,4 @@
-Por el medio de GitHub se admisnistrara el progreso
+﻿Por el medio de GitHub se admisnistrara el progreso
 del proyecto y aqui se subiran todos los avances 
 de cada uno de los colaboradores del proyecto
 
@@ -8,3 +8,5 @@ control y gestion de dicho proyecto
 04/01/2020
 -Cualquier duda sobre la ejecucion de la plataforma
 comunicarse con el Joven Abraham Castañeda (Dueño del repositorio)
+
+Manos a la obra!!!
