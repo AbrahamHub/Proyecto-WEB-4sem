@@ -1,0 +1,163 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cabecera
+{
+    height: 75px;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    z-index: 1;
+}
+#cabecera img
+{
+    width: 100px;
+    height: 75px;
+    z-index: 1;
+    position: relative;
+    left: 5%;
+}
+#cue
+{
+    width: 100%;
+}
+#cue img
+{
+    width: 100%;
+    height: 100%;
+}
+#ff
+{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    background-color: lightseagreen;
+    width: 75%;
+    position: absolute;
+    top: 30%;
+    left: 12.5%;
+    height: 80%;
+}
+#ff p
+{
+    position: relative;
+    left: 12.5%;
+    top: 5%;
+}
+#ff img
+{
+    position: relative;
+    left: 25%;
+    width: 50%;
+}
+#ins
+{
+    position: fixed;
+    left: 80%;
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    border: 1px  lightseagreen solid;
+    z-index: 1;
+    top: 12.5px;
+}
+#crc
+{
+    position: fixed;
+    left: 90%;
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    border: 1px  lightseagreen solid;
+    z-index: 1;
+    top: 12.5px;
+}
+#tit
+{
+    font-size: 40px;
+    position: relative;
+    left: 40%;
+    bottom: 75px;
+}
+#tit2
+{
+    position: relative;
+    left: 5%;
+    font-size: 80px;
+}
+#ima2
+{
+    position: relative;
+    left: 55%;
+    bottom: 250px;
+}
+#tit3
+{
+    position: relative;
+    left: 5%;
+    bottom: 600px;
+    font-size: 30px;
+}
+#cue2
+{
+    height: 500px;
+}
+#tit4
+{
+    font-size: 80px;
+    position: relative;
+    bottom: 500px;
+    left: 35%;
+}
+#cue3 
+{
+    background-color: #f5f5f5;
+    height: 600px;
+}
+#tit5
+{
+    position: relative;
+    left: 35%;
+    bottom: 450px;
+    font-size: 30px;
+}
+#tit6
+{
+    color: white;
+}
+#pie
+{
+    background-color: black;
+}
+#tit6
+{
+    font-size: 30px;
+}
+
+#pie img
+{
+    width: 100px;
+    height: 100px;
+}
+#t1
+{
+    position: relative;
+    left: 80%;
+    color: white;
+}
+#t2
+{
+    position: relative;
+    left: 80%;
+    color: white;   
+}
+#mm
+{
+    position: relative;
+    left: 80%;
+}
