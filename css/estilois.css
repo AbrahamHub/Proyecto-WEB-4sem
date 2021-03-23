@@ -1,0 +1,276 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Arial Narrow';
+}
+body
+{
+    background: no-repeat url(img/fondo.jpg);
+    background-size: cover;
+}
+#cont
+{
+    position: relative;
+    left: 35%;
+    right: 35%;
+    top: 140px;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    box-shadow: 2px 2px 10px #666;  
+}
+#cont img
+{
+    position: relative;
+    top: 25px;
+    left: 25px;
+    height: 100px;
+    width: 125px;
+}
+#tit
+{
+    position: relative;
+    bottom: 30px;
+    left: 150px;
+}
+.caja
+{
+    position: relative;
+    left: 50px;
+    width: 300px;
+}
+#cont h1
+{
+    position: relative;
+    left: 50px;
+}
+#nc
+{
+    position: relative;
+    left: 50px;
+}
+#cc
+{
+    position: relative;
+    left: 160px;
+    top: -30px;
+}
+#next
+{
+    font-weight: 800;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#atras
+{
+    font-weight: 800;
+    position: relative;
+    left: -100px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+
+
+#cc2
+{
+    position: absolute;
+    right: 125px;
+    top: 190px;
+}
+#nomm
+{
+    position: relative;
+    left: 50px;
+}
+#app
+{
+    position: relative;
+    left: 80px;
+}
+.caja2
+{
+    position: relative;
+    left: 50px;
+    width: 300px;
+}
+#next2
+{
+    font-weight: 800;
+    position: relative;
+    left: 280px;
+    top: 10px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#atras2
+{
+    font-weight: 800;
+    position: relative;
+    left: -50px;
+    top: 10px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#ii
+{
+    position: relative;
+    left: 20px;
+}
+
+#cont2
+{
+    position: relative;
+    left: 35%;
+    right: 35%;
+    top: 140px;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    box-shadow: 2px 2px 10px #666;  
+}
+#cont2 img
+{
+    position: relative;
+    top: 25px;
+    left: 25px;
+    height: 100px;
+    width: 125px;
+}
+#cont2 h1
+{
+    position: relative;
+    left: 50px;
+}
+#por
+{
+    position: relative;
+    left: 20px;
+    font-weight: bold;
+}
+#por2
+{
+    position: relative;
+    left: 20px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(248, 139, 215);
+}
+#fch
+{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    font-weight: bold;
+}
+#ddi
+{
+    position: relative;
+    left: 20px;
+    width: 100px;
+    top: 20px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(248, 139, 215);
+}
+#mes
+{
+    position: relative;
+    left: 20px;
+    width: 100px;
+    top: 20px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(248, 139, 215);
+}
+#year
+{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+#next3
+{
+    font-weight: 800;
+    position: relative;
+    left: 250px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#atras3
+{
+    font-weight: 800;
+    position: relative;
+    left: -85px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#next4
+{
+    font-weight: 800;
+    position: relative;
+    left: 250px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#atras4
+{
+    font-weight: 800;
+    position: relative;
+    left: -50px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#next5
+{
+    font-weight: 800;
+    position: relative;
+    left: 250px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
+#atras5
+{
+    font-weight: 800;
+    position: relative;
+    left: -50px;
+    top: 50px;
+    width: 100px;
+    height: 50px;
+    box-shadow: 2px 2px lightgrey;
+    background-color: rgb(8, 159, 247);
+    border: none;
+}
